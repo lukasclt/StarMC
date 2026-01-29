@@ -1,0 +1,5 @@
+# Modes:  Main, PvP, HungerGames, Duels, Prototype
+
+hall:
+  mode: Main
+  identifier: 1

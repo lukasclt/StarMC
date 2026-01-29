@@ -1,0 +1,80 @@
+com/minecraft/bedwars/event/UserConnectEvent.java
+ com.minecraft.bedwars.event.UserConnectEvent
+com/minecraft/bedwars/room/team/column/TeamColor.java
+ com.minecraft.bedwars.room.team.column.TeamColor
+com/minecraft/bedwars/mode/list/Solo.java
+ com.minecraft.bedwars.mode.list.Solo
+com/minecraft/bedwars/util/enums/RoomStage.java
+ com.minecraft.bedwars.util.enums.RoomStage
+com/minecraft/bedwars/commands/ConfigureCommand.java
+ com.minecraft.bedwars.commands.ConfigureCommand
+com/minecraft/bedwars/listener/PlayerDeathListener.java
+ com.minecraft.bedwars.listener.PlayerDeathListener
+ com.minecraft.bedwars.listener.PlayerDeathListener$1
+ com.minecraft.bedwars.listener.PlayerDeathListener$2
+com/minecraft/bedwars/config/MapConfiguration.java
+ com.minecraft.bedwars.config.MapConfiguration
+com/minecraft/bedwars/listener/PlayerDamageFixerListener.java
+ com.minecraft.bedwars.listener.PlayerDamageFixerListener
+com/minecraft/bedwars/Bedwars.java
+ com.minecraft.bedwars.Bedwars
+com/minecraft/bedwars/util/enums/Items.java
+ com.minecraft.bedwars.util.enums.Items
+ com.minecraft.bedwars.util.enums.Items$1
+com/minecraft/bedwars/room/island/Island.java
+ com.minecraft.bedwars.room.island.Island
+com/minecraft/bedwars/util/visibility/Visibility.java
+ com.minecraft.bedwars.util.visibility.Visibility
+com/minecraft/bedwars/event/UserDeathEvent.java
+ com.minecraft.bedwars.event.UserDeathEvent
+com/minecraft/bedwars/listener/PlayerWorldListener.java
+ com.minecraft.bedwars.listener.PlayerWorldListener
+com/minecraft/bedwars/util/generator/Generator.java
+ com.minecraft.bedwars.util.generator.Generator
+com/minecraft/bedwars/room/generator/VoidGenerator.java
+ com.minecraft.bedwars.room.generator.VoidGenerator
+com/minecraft/bedwars/user/UserStorage.java
+ com.minecraft.bedwars.user.UserStorage
+com/minecraft/bedwars/event/UserDisconnectEvent.java
+ com.minecraft.bedwars.event.UserDisconnectEvent
+com/minecraft/bedwars/user/loader/UserLoader.java
+ com.minecraft.bedwars.user.loader.UserLoader
+com/minecraft/bedwars/config/IslandConfiguration.java
+ com.minecraft.bedwars.config.IslandConfiguration
+com/minecraft/bedwars/event/UserJoinTeamEvent.java
+ com.minecraft.bedwars.event.UserJoinTeamEvent
+com/minecraft/bedwars/util/Battle.java
+ com.minecraft.bedwars.util.Battle
+ com.minecraft.bedwars.util.Battle$1
+com/minecraft/bedwars/util/FireworkAPI.java
+ com.minecraft.bedwars.util.FireworkAPI
+com/minecraft/bedwars/mode/stage/ModeStage.java
+ com.minecraft.bedwars.mode.stage.ModeStage
+com/minecraft/bedwars/room/shop/category/ShopCategory.java
+ com.minecraft.bedwars.room.shop.category.ShopCategory
+com/minecraft/bedwars/room/storage/RoomStorage.java
+ com.minecraft.bedwars.room.storage.RoomStorage
+com/minecraft/bedwars/listener/PlayerMatchListener.java
+ com.minecraft.bedwars.listener.PlayerMatchListener
+com/minecraft/bedwars/room/Room.java
+ com.minecraft.bedwars.room.Room
+com/minecraft/bedwars/mode/Mode.java
+ com.minecraft.bedwars.mode.Mode
+ com.minecraft.bedwars.mode.Mode$1
+com/minecraft/bedwars/util/generator/task/GeneratorTask.java
+ com.minecraft.bedwars.util.generator.task.GeneratorTask
+ com.minecraft.bedwars.util.generator.task.GeneratorTask$1
+com/minecraft/bedwars/event/type/DeathType.java
+ com.minecraft.bedwars.event.type.DeathType
+com/minecraft/bedwars/user/User.java
+ com.minecraft.bedwars.user.User
+ com.minecraft.bedwars.user.User$State
+com/minecraft/bedwars/room/team/Team.java
+ com.minecraft.bedwars.room.team.Team
+com/minecraft/bedwars/util/GameMetadata.java
+ com.minecraft.bedwars.util.GameMetadata
+com/minecraft/bedwars/util/HandleInfos.java
+ com.minecraft.bedwars.util.HandleInfos
+ com.minecraft.bedwars.util.HandleInfos$1
+com/minecraft/bedwars/util/generator/type/GeneratorType.java
+ com.minecraft.bedwars.util.generator.type.GeneratorType

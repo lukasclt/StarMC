@@ -1,0 +1,145 @@
+com/minecraft/pvp/kit/list/AntiTower.java
+ com.minecraft.pvp.kit.list.AntiTower
+com/minecraft/pvp/game/types/Lava.java
+ com.minecraft.pvp.game.types.Lava
+com/minecraft/pvp/event/PlayerSoupDrinkEvent.java
+ com.minecraft.pvp.event.PlayerSoupDrinkEvent
+com/minecraft/pvp/kit/list/Viper.java
+ com.minecraft.pvp.kit.list.Viper
+com/minecraft/pvp/util/Type.java
+ com.minecraft.pvp.util.Type
+com/minecraft/pvp/user/UserStorage.java
+ com.minecraft.pvp.user.UserStorage
+com/minecraft/pvp/kit/list/Anchor.java
+ com.minecraft.pvp.kit.list.Anchor
+com/minecraft/pvp/util/GameMetadata.java
+ com.minecraft.pvp.util.GameMetadata
+com/minecraft/pvp/kit/list/Stomper.java
+ com.minecraft.pvp.kit.list.Stomper
+com/minecraft/pvp/game/types/Damage.java
+ com.minecraft.pvp.game.types.Damage
+ com.minecraft.pvp.game.types.Damage$DamageFrequency
+ com.minecraft.pvp.game.types.Damage$DamageType
+com/minecraft/pvp/game/tasks/DamagerTask.java
+ com.minecraft.pvp.game.tasks.DamagerTask
+com/minecraft/pvp/game/structures/FinalBattle.java
+ com.minecraft.pvp.game.structures.FinalBattle
+com/minecraft/pvp/kit/list/Hulk.java
+ com.minecraft.pvp.kit.list.Hulk
+com/minecraft/pvp/game/selectors/damage/Challenge.java
+ com.minecraft.pvp.game.selectors.damage.Challenge
+com/minecraft/pvp/kit/list/Specialist.java
+ com.minecraft.pvp.kit.list.Specialist
+com/minecraft/pvp/game/types/Arena.java
+ com.minecraft.pvp.game.types.Arena
+com/minecraft/pvp/listeners/ItemFrameListener.java
+ com.minecraft.pvp.listeners.ItemFrameListener
+com/minecraft/pvp/util/Visibility.java
+ com.minecraft.pvp.util.Visibility
+com/minecraft/pvp/kit/list/Poseidon.java
+ com.minecraft.pvp.kit.list.Poseidon
+com/minecraft/pvp/util/Items.java
+ com.minecraft.pvp.util.Items
+ com.minecraft.pvp.util.Items$1
+com/minecraft/pvp/kit/Kit.java
+ com.minecraft.pvp.kit.Kit
+ com.minecraft.pvp.kit.Kit$CooldownType
+com/minecraft/pvp/commands/RankingCommand.java
+ com.minecraft.pvp.commands.RankingCommand
+com/minecraft/pvp/kit/list/Switcher.java
+ com.minecraft.pvp.kit.list.Switcher
+com/minecraft/pvp/game/GameType.java
+ com.minecraft.pvp.game.GameType
+com/minecraft/pvp/kit/list/Neo.java
+ com.minecraft.pvp.kit.list.Neo
+com/minecraft/pvp/event/PlayerProtectionRemoveEvent.java
+ com.minecraft.pvp.event.PlayerProtectionRemoveEvent
+com/minecraft/pvp/game/Game.java
+ com.minecraft.pvp.game.Game
+ com.minecraft.pvp.game.Game$Rejoin
+com/minecraft/pvp/kit/list/Thor.java
+ com.minecraft.pvp.kit.list.Thor
+com/minecraft/pvp/event/PlayerProtectionEvent.java
+ com.minecraft.pvp.event.PlayerProtectionEvent
+com/minecraft/pvp/kit/list/Boxer.java
+ com.minecraft.pvp.kit.list.Boxer
+com/minecraft/pvp/game/types/Fps.java
+ com.minecraft.pvp.game.types.Fps
+com/minecraft/pvp/kit/list/Ninja.java
+ com.minecraft.pvp.kit.list.Ninja
+com/minecraft/pvp/commands/SpawnCommand.java
+ com.minecraft.pvp.commands.SpawnCommand
+com/minecraft/pvp/kit/KitCategory.java
+ com.minecraft.pvp.kit.KitCategory
+com/minecraft/pvp/listeners/InventoryListeners.java
+ com.minecraft.pvp.listeners.InventoryListeners
+com/minecraft/pvp/listeners/ServerListeners.java
+ com.minecraft.pvp.listeners.ServerListeners
+com/minecraft/pvp/kit/list/Flash.java
+ com.minecraft.pvp.kit.list.Flash
+com/minecraft/pvp/game/GameStorage.java
+ com.minecraft.pvp.game.GameStorage
+com/minecraft/pvp/util/DamageSettings.java
+ com.minecraft.pvp.util.DamageSettings
+com/minecraft/pvp/kit/list/Monk.java
+ com.minecraft.pvp.kit.list.Monk
+com/minecraft/pvp/commands/KitCommand.java
+ com.minecraft.pvp.commands.KitCommand
+com/minecraft/pvp/event/UserDiedEvent.java
+ com.minecraft.pvp.event.UserDiedEvent
+ com.minecraft.pvp.event.UserDiedEvent$Reason
+com/minecraft/pvp/user/User.java
+ com.minecraft.pvp.user.User
+com/minecraft/pvp/game/structures/Feast.java
+ com.minecraft.pvp.game.structures.Feast
+com/minecraft/pvp/kit/list/Fireman.java
+ com.minecraft.pvp.kit.list.Fireman
+com/minecraft/pvp/kit/list/Camel.java
+ com.minecraft.pvp.kit.list.Camel
+com/minecraft/pvp/kit/list/Turtle.java
+ com.minecraft.pvp.kit.list.Turtle
+com/minecraft/pvp/listeners/DamageListener.java
+ com.minecraft.pvp.listeners.DamageListener
+com/minecraft/pvp/listeners/DeathListeners.java
+ com.minecraft.pvp.listeners.DeathListeners
+com/minecraft/pvp/PvP.java
+ com.minecraft.pvp.PvP
+ com.minecraft.pvp.PvP$1
+com/minecraft/pvp/kit/KitStorage.java
+ com.minecraft.pvp.kit.KitStorage
+com/minecraft/pvp/kit/list/Snail.java
+ com.minecraft.pvp.kit.list.Snail
+com/minecraft/pvp/kit/list/Kangaroo.java
+ com.minecraft.pvp.kit.list.Kangaroo
+com/minecraft/pvp/listeners/UserLoader.java
+ com.minecraft.pvp.listeners.UserLoader
+com/minecraft/pvp/commands/Kit2Command.java
+ com.minecraft.pvp.commands.Kit2Command
+com/minecraft/pvp/kit/list/Grandpa.java
+ com.minecraft.pvp.kit.list.Grandpa
+com/minecraft/pvp/commands/KillCommand.java
+ com.minecraft.pvp.commands.KillCommand
+com/minecraft/pvp/kit/list/Grappler.java
+ com.minecraft.pvp.kit.list.Grappler
+ com.minecraft.pvp.kit.list.Grappler$Hook
+com/minecraft/pvp/game/selectors/arena/Store.java
+ com.minecraft.pvp.game.selectors.arena.Store
+ com.minecraft.pvp.game.selectors.arena.Store$1
+com/minecraft/pvp/kit/list/Fisherman.java
+ com.minecraft.pvp.kit.list.Fisherman
+com/minecraft/pvp/kit/list/Magic.java
+ com.minecraft.pvp.kit.list.Magic
+ com.minecraft.pvp.kit.list.Magic$MagicEntityPotion
+ com.minecraft.pvp.kit.list.Magic$MagicPotionEffect
+com/minecraft/pvp/game/selectors/damage/Editor.java
+ com.minecraft.pvp.game.selectors.damage.Editor
+com/minecraft/pvp/kit/list/Nenhum.java
+ com.minecraft.pvp.kit.list.Nenhum
+com/minecraft/pvp/kit/list/Archer.java
+ com.minecraft.pvp.kit.list.Archer
+com/minecraft/pvp/kit/list/AutoBowl.java
+ com.minecraft.pvp.kit.list.AutoBowl
+com/minecraft/pvp/kit/list/Milkman.java
+ com.minecraft.pvp.kit.list.Milkman
+com/minecraft/pvp/commands/BuildCommand.java
+ com.minecraft.pvp.commands.BuildCommand

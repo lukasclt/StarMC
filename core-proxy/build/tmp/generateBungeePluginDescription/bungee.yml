@@ -1,0 +1,4 @@
+name: core-proxy
+main: com.minecraft.core.proxy.ProxyGame
+version: 1.0.0-
+author: Thormento

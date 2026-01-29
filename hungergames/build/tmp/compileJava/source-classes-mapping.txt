@@ -1,0 +1,485 @@
+com/minecraft/hungergames/user/kits/list/Turtle.java
+ com.minecraft.hungergames.user.kits.list.Turtle
+com/minecraft/hungergames/user/kits/list/Pyro.java
+ com.minecraft.hungergames.user.kits.list.Pyro
+com/minecraft/hungergames/user/kits/list/Cookiemonster.java
+ com.minecraft.hungergames.user.kits.list.Cookiemonster
+com/minecraft/hungergames/user/kits/list/Sabotager.java
+ com.minecraft.hungergames.user.kits.list.Sabotager
+ com.minecraft.hungergames.user.kits.list.Sabotager$Sabotage
+ com.minecraft.hungergames.user.kits.list.Sabotager$Sabotage$1
+ com.minecraft.hungergames.user.kits.list.Sabotager$SabotageList
+ com.minecraft.hungergames.user.kits.list.Sabotager$Sabotages
+ com.minecraft.hungergames.user.kits.list.Sabotager$Sabotages$Executor
+com/minecraft/hungergames/user/kits/list/Miner.java
+ com.minecraft.hungergames.user.kits.list.Miner
+com/minecraft/hungergames/util/selector/object/SpectatorList.java
+ com.minecraft.hungergames.util.selector.object.SpectatorList
+com/minecraft/hungergames/event/game/GameRecoveryModeToggleEvent.java
+ com.minecraft.hungergames.event.game.GameRecoveryModeToggleEvent
+com/minecraft/hungergames/user/kits/list/Gladiator.java
+ com.minecraft.hungergames.user.kits.list.Gladiator
+ com.minecraft.hungergames.user.kits.list.Gladiator$GladiatorSession
+com/minecraft/hungergames/user/celebrations/CelebrationStorage.java
+ com.minecraft.hungergames.user.celebrations.CelebrationStorage
+com/minecraft/hungergames/game/handler/GameExecutor.java
+ com.minecraft.hungergames.game.handler.GameExecutor
+com/minecraft/hungergames/event/user/LivingUserDieEvent.java
+ com.minecraft.hungergames.event.user.LivingUserDieEvent
+com/minecraft/hungergames/game/list/Event.java
+ com.minecraft.hungergames.game.list.Event
+ com.minecraft.hungergames.game.list.Event$EventMode
+com/minecraft/hungergames/user/kits/list/Tank.java
+ com.minecraft.hungergames.user.kits.list.Tank
+com/minecraft/hungergames/util/bo3/BO3Reader.java
+ com.minecraft.hungergames.util.bo3.BO3Reader
+com/minecraft/hungergames/user/kits/list/Surprise.java
+ com.minecraft.hungergames.user.kits.list.Surprise
+com/minecraft/hungergames/command/TeamCommand.java
+ com.minecraft.hungergames.command.TeamCommand
+ com.minecraft.hungergames.command.TeamCommand$Argument
+ com.minecraft.hungergames.command.TeamCommand$Executor
+com/minecraft/hungergames/user/kits/list/Fireman.java
+ com.minecraft.hungergames.user.kits.list.Fireman
+com/minecraft/hungergames/command/CleardropsCommand.java
+ com.minecraft.hungergames.command.CleardropsCommand
+ com.minecraft.hungergames.command.CleardropsCommand$ClearTask
+com/minecraft/hungergames/user/kits/Kit.java
+ com.minecraft.hungergames.user.kits.Kit
+com/minecraft/hungergames/util/arena/FileArena.java
+ com.minecraft.hungergames.util.arena.FileArena
+com/minecraft/hungergames/user/kits/list/Blacksmith.java
+ com.minecraft.hungergames.user.kits.list.Blacksmith
+com/minecraft/hungergames/user/kits/list/Beastmaster.java
+ com.minecraft.hungergames.user.kits.list.Beastmaster
+com/minecraft/hungergames/user/kits/pattern/DailyKit.java
+ com.minecraft.hungergames.user.kits.pattern.DailyKit
+com/minecraft/hungergames/user/kits/list/Poseidon.java
+ com.minecraft.hungergames.user.kits.list.Poseidon
+com/minecraft/hungergames/user/kits/list/Cannibal.java
+ com.minecraft.hungergames.user.kits.list.Cannibal
+com/minecraft/hungergames/user/kits/list/Phantom.java
+ com.minecraft.hungergames.user.kits.list.Phantom
+ com.minecraft.hungergames.user.kits.list.Phantom$PhantomSession
+com/minecraft/hungergames/user/kits/list/Thor.java
+ com.minecraft.hungergames.user.kits.list.Thor
+com/minecraft/hungergames/event/game/GameTimeEvent.java
+ com.minecraft.hungergames.event.game.GameTimeEvent
+com/minecraft/hungergames/user/object/AwaySession.java
+ com.minecraft.hungergames.user.object.AwaySession
+com/minecraft/hungergames/util/item/ItemChance.java
+ com.minecraft.hungergames.util.item.ItemChance
+com/minecraft/hungergames/util/bo3/BO3.java
+ com.minecraft.hungergames.util.bo3.BO3
+ com.minecraft.hungergames.util.bo3.BO3$BlockHandle
+com/minecraft/hungergames/user/kits/list/Berserker.java
+ com.minecraft.hungergames.user.kits.list.Berserker
+com/minecraft/hungergames/command/SpawnPointCommand.java
+ com.minecraft.hungergames.command.SpawnPointCommand
+com/minecraft/hungergames/user/User.java
+ com.minecraft.hungergames.user.User
+com/minecraft/hungergames/user/listener/SpectatorListener.java
+ com.minecraft.hungergames.user.listener.SpectatorListener
+com/minecraft/hungergames/user/kits/list/Magma.java
+ com.minecraft.hungergames.user.kits.list.Magma
+com/minecraft/hungergames/user/kits/list/Monkey.java
+ com.minecraft.hungergames.user.kits.list.Monkey
+com/minecraft/hungergames/user/kits/list/PowerWave.java
+ com.minecraft.hungergames.user.kits.list.PowerWave
+ com.minecraft.hungergames.user.kits.list.PowerWave$Wave
+ com.minecraft.hungergames.user.kits.list.PowerWave$Wave$1
+com/minecraft/hungergames/user/kits/list/Werewolf.java
+ com.minecraft.hungergames.user.kits.list.Werewolf
+com/minecraft/hungergames/user/celebrations/list/Mlg.java
+ com.minecraft.hungergames.user.celebrations.list.Mlg
+com/minecraft/hungergames/command/SpectatorsCommand.java
+ com.minecraft.hungergames.command.SpectatorsCommand
+com/minecraft/hungergames/command/ForceMinifeastCommand.java
+ com.minecraft.hungergames.command.ForceMinifeastCommand
+com/minecraft/hungergames/user/kits/list/Endermage.java
+ com.minecraft.hungergames.user.kits.list.Endermage
+ com.minecraft.hungergames.user.kits.list.Endermage$EndermagePortal
+ com.minecraft.hungergames.user.kits.list.Endermage$EndermagePortal$1
+com/minecraft/hungergames/user/kits/list/Reaper.java
+ com.minecraft.hungergames.user.kits.list.Reaper
+com/minecraft/hungergames/util/constructor/listener/ListenerLoader.java
+ com.minecraft.hungergames.util.constructor.listener.ListenerLoader
+com/minecraft/hungergames/game/structure/Feast.java
+ com.minecraft.hungergames.game.structure.Feast
+ com.minecraft.hungergames.game.structure.Feast$1
+com/minecraft/hungergames/user/kits/list/Vacuum.java
+ com.minecraft.hungergames.user.kits.list.Vacuum
+com/minecraft/hungergames/util/templatekit/TemplateKit.java
+ com.minecraft.hungergames.util.templatekit.TemplateKit
+com/minecraft/hungergames/game/Game.java
+ com.minecraft.hungergames.game.Game
+ com.minecraft.hungergames.game.Game$1
+com/minecraft/hungergames/user/kits/list/Timelord.java
+ com.minecraft.hungergames.user.kits.list.Timelord
+ com.minecraft.hungergames.user.kits.list.Timelord$TimeStop
+ com.minecraft.hungergames.user.kits.list.Timelord$TimeStop$1
+com/minecraft/hungergames/util/arena/shape/Cylinder.java
+ com.minecraft.hungergames.util.arena.shape.Cylinder
+com/minecraft/hungergames/game/handler/listener/RoomListener.java
+ com.minecraft.hungergames.game.handler.listener.RoomListener
+com/minecraft/hungergames/util/arena/shape/Square.java
+ com.minecraft.hungergames.util.arena.shape.Square
+com/minecraft/hungergames/user/kits/list/Kangaroo.java
+ com.minecraft.hungergames.user.kits.list.Kangaroo
+com/minecraft/hungergames/user/kits/list/Explorer.java
+ com.minecraft.hungergames.user.kits.list.Explorer
+com/minecraft/hungergames/user/kits/list/Trader.java
+ com.minecraft.hungergames.user.kits.list.Trader
+com/minecraft/hungergames/user/kits/list/Fisherman.java
+ com.minecraft.hungergames.user.kits.list.Fisherman
+com/minecraft/hungergames/game/list/events/Scrim.java
+ com.minecraft.hungergames.game.list.events.Scrim
+com/minecraft/hungergames/game/list/Teamable.java
+ com.minecraft.hungergames.game.list.Teamable
+ com.minecraft.hungergames.game.list.Teamable$1
+com/minecraft/hungergames/util/celebrations/UtilParticles.java
+ com.minecraft.hungergames.util.celebrations.UtilParticles
+ com.minecraft.hungergames.util.celebrations.UtilParticles$1
+com/minecraft/hungergames/user/pattern/Condition.java
+ com.minecraft.hungergames.user.pattern.Condition
+com/minecraft/hungergames/util/explication/Explication.java
+ com.minecraft.hungergames.util.explication.Explication
+ com.minecraft.hungergames.util.explication.Explication$1
+com/minecraft/hungergames/user/kits/list/Archer.java
+ com.minecraft.hungergames.user.kits.list.Archer
+ com.minecraft.hungergames.user.kits.list.Archer$Skill
+ com.minecraft.hungergames.user.kits.list.Archer$Skill$Applier
+com/minecraft/hungergames/util/selector/Items.java
+ com.minecraft.hungergames.util.selector.Items
+ com.minecraft.hungergames.util.selector.Items$1
+ com.minecraft.hungergames.util.selector.Items$1$1
+ com.minecraft.hungergames.util.selector.Items$1$2
+ com.minecraft.hungergames.util.selector.Items$1$3
+ com.minecraft.hungergames.util.selector.Items$2
+ com.minecraft.hungergames.util.selector.Items$2$1
+ com.minecraft.hungergames.util.selector.Items$2$2
+com/minecraft/hungergames/command/ForfeitCommand.java
+ com.minecraft.hungergames.command.ForfeitCommand
+com/minecraft/hungergames/user/kits/list/Urgal.java
+ com.minecraft.hungergames.user.kits.list.Urgal
+com/minecraft/hungergames/util/stats/StatsApplier.java
+ com.minecraft.hungergames.util.stats.StatsApplier
+ com.minecraft.hungergames.util.stats.StatsApplier$Applier
+com/minecraft/hungergames/user/kits/list/Vampire.java
+ com.minecraft.hungergames.user.kits.list.Vampire
+com/minecraft/hungergames/user/kits/list/Checkpoint.java
+ com.minecraft.hungergames.user.kits.list.Checkpoint
+com/minecraft/hungergames/util/arena/Arena.java
+ com.minecraft.hungergames.util.arena.Arena
+com/minecraft/hungergames/command/RankingCommand.java
+ com.minecraft.hungergames.command.RankingCommand
+com/minecraft/hungergames/game/handler/listener/WaitingListener.java
+ com.minecraft.hungergames.game.handler.listener.WaitingListener
+com/minecraft/hungergames/command/StormSurgeCommand.java
+ com.minecraft.hungergames.command.StormSurgeCommand
+com/minecraft/hungergames/util/selector/object/DiaryKit.java
+ com.minecraft.hungergames.util.selector.object.DiaryKit
+com/minecraft/hungergames/user/kits/list/Barbarian.java
+ com.minecraft.hungergames.user.kits.list.Barbarian
+com/minecraft/hungergames/game/structure/FinalBattle.java
+ com.minecraft.hungergames.game.structure.FinalBattle
+com/minecraft/hungergames/command/OpenEventCommand.java
+ com.minecraft.hungergames.command.OpenEventCommand
+com/minecraft/hungergames/util/selector/object/TeamSelector.java
+ com.minecraft.hungergames.util.selector.object.TeamSelector
+com/minecraft/hungergames/game/structure/Coliseum.java
+ com.minecraft.hungergames.game.structure.Coliseum
+com/minecraft/hungergames/command/StartCommand.java
+ com.minecraft.hungergames.command.StartCommand
+com/minecraft/hungergames/user/kits/list/AntiTower.java
+ com.minecraft.hungergames.user.kits.list.AntiTower
+com/minecraft/hungergames/user/kits/list/Demoman.java
+ com.minecraft.hungergames.user.kits.list.Demoman
+com/minecraft/hungergames/user/kits/list/Achilles.java
+ com.minecraft.hungergames.user.kits.list.Achilles
+com/minecraft/hungergames/user/kits/list/Redstoner.java
+ com.minecraft.hungergames.user.kits.list.Redstoner
+com/minecraft/hungergames/util/celebrations/Cuboid.java
+ com.minecraft.hungergames.util.celebrations.Cuboid
+ com.minecraft.hungergames.util.celebrations.Cuboid$1
+ com.minecraft.hungergames.util.celebrations.Cuboid$CuboidDirection
+ com.minecraft.hungergames.util.celebrations.Cuboid$CuboidIterator
+com/minecraft/hungergames/util/bo3/EmptyBO3.java
+ com.minecraft.hungergames.util.bo3.EmptyBO3
+com/minecraft/hungergames/user/kits/list/Ironman.java
+ com.minecraft.hungergames.user.kits.list.Ironman
+com/minecraft/hungergames/user/kits/list/Jumper.java
+ com.minecraft.hungergames.user.kits.list.Jumper
+com/minecraft/hungergames/command/KitsCommand.java
+ com.minecraft.hungergames.command.KitsCommand
+com/minecraft/hungergames/user/kits/list/Noob.java
+ com.minecraft.hungergames.user.kits.list.Noob
+com/minecraft/hungergames/util/game/GameStorage.java
+ com.minecraft.hungergames.util.game.GameStorage
+com/minecraft/hungergames/util/templatekit/TemplateKitStorage.java
+ com.minecraft.hungergames.util.templatekit.TemplateKitStorage
+com/minecraft/hungergames/game/handler/listener/recovery/RecoveryListener.java
+ com.minecraft.hungergames.game.handler.listener.recovery.RecoveryListener
+com/minecraft/hungergames/util/selector/object/Comemorations.java
+ com.minecraft.hungergames.util.selector.object.Comemorations
+ com.minecraft.hungergames.util.selector.object.Comemorations$1
+com/minecraft/hungergames/user/kits/list/Toxic.java
+ com.minecraft.hungergames.user.kits.list.Toxic
+ com.minecraft.hungergames.user.kits.list.Toxic$DangerZone
+ com.minecraft.hungergames.user.kits.list.Toxic$DangerZone$1
+com/minecraft/hungergames/user/kits/list/Specialist.java
+ com.minecraft.hungergames.user.kits.list.Specialist
+com/minecraft/hungergames/user/kits/list/Switcher.java
+ com.minecraft.hungergames.user.kits.list.Switcher
+com/minecraft/hungergames/user/kits/list/Scout.java
+ com.minecraft.hungergames.user.kits.list.Scout
+com/minecraft/hungergames/command/ForcekitCommand.java
+ com.minecraft.hungergames.command.ForcekitCommand
+com/minecraft/hungergames/user/kits/list/Chameleon.java
+ com.minecraft.hungergames.user.kits.list.Chameleon
+ com.minecraft.hungergames.user.kits.list.Chameleon$1
+ com.minecraft.hungergames.user.kits.list.Chameleon$Disguise
+com/minecraft/hungergames/util/leaderboard/LeaderboardPreset.java
+ com.minecraft.hungergames.util.leaderboard.LeaderboardPreset
+com/minecraft/hungergames/user/celebrations/Celebration.java
+ com.minecraft.hungergames.user.celebrations.Celebration
+com/minecraft/hungergames/user/celebrations/list/Trampoline.java
+ com.minecraft.hungergames.user.celebrations.list.Trampoline
+ com.minecraft.hungergames.user.celebrations.list.Trampoline$1
+com/minecraft/hungergames/game/list/ClanxClan.java
+ com.minecraft.hungergames.game.list.ClanxClan
+ com.minecraft.hungergames.game.list.ClanxClan$1
+com/minecraft/hungergames/game/structure/Stairs.java
+ com.minecraft.hungergames.game.structure.Stairs
+ com.minecraft.hungergames.game.structure.Stairs$1
+com/minecraft/hungergames/HungerGames.java
+ com.minecraft.hungergames.HungerGames
+com/minecraft/hungergames/user/kits/list/Ninja.java
+ com.minecraft.hungergames.user.kits.list.Ninja
+com/minecraft/hungergames/command/ForcefeastCommand.java
+ com.minecraft.hungergames.command.ForcefeastCommand
+com/minecraft/hungergames/user/celebrations/pattern/CelebrationRarity.java
+ com.minecraft.hungergames.user.celebrations.pattern.CelebrationRarity
+com/minecraft/hungergames/command/ForcehealthCommand.java
+ com.minecraft.hungergames.command.ForcehealthCommand
+com/minecraft/hungergames/util/celebrations/Particles.java
+ com.minecraft.hungergames.util.celebrations.Particles
+ com.minecraft.hungergames.util.celebrations.Particles$BlockData
+ com.minecraft.hungergames.util.celebrations.Particles$ItemData
+ com.minecraft.hungergames.util.celebrations.Particles$NoteColor
+ com.minecraft.hungergames.util.celebrations.Particles$OrdinaryColor
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleColor
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleColorException
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleData
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleDataException
+ com.minecraft.hungergames.util.celebrations.Particles$ParticlePacket
+ com.minecraft.hungergames.util.celebrations.Particles$ParticlePacket$PacketInstantiationException
+ com.minecraft.hungergames.util.celebrations.Particles$ParticlePacket$PacketSendingException
+ com.minecraft.hungergames.util.celebrations.Particles$ParticlePacket$VersionIncompatibleException
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleProperty
+ com.minecraft.hungergames.util.celebrations.Particles$ParticleVersionException
+com/minecraft/hungergames/command/KitEmployer.java
+ com.minecraft.hungergames.command.KitEmployer
+com/minecraft/hungergames/user/kits/list/Backpacker.java
+ com.minecraft.hungergames.user.kits.list.Backpacker
+com/minecraft/hungergames/user/kits/list/Thermo.java
+ com.minecraft.hungergames.user.kits.list.Thermo
+ com.minecraft.hungergames.user.kits.list.Thermo$ThermoMaterialData
+com/minecraft/hungergames/util/celebrations/ReflectionUtils.java
+ com.minecraft.hungergames.util.celebrations.ReflectionUtils
+ com.minecraft.hungergames.util.celebrations.ReflectionUtils$DataType
+ com.minecraft.hungergames.util.celebrations.ReflectionUtils$PackageType
+com/minecraft/hungergames/util/game/GameVariables.java
+ com.minecraft.hungergames.util.game.GameVariables
+com/minecraft/hungergames/command/FeastCommand.java
+ com.minecraft.hungergames.command.FeastCommand
+com/minecraft/hungergames/user/celebrations/list/Rocket.java
+ com.minecraft.hungergames.user.celebrations.list.Rocket
+ com.minecraft.hungergames.user.celebrations.list.Rocket$1
+ com.minecraft.hungergames.user.celebrations.list.Rocket$2
+ com.minecraft.hungergames.user.celebrations.list.Rocket$2$1
+com/minecraft/hungergames/user/kits/pattern/KitCategory.java
+ com.minecraft.hungergames.user.kits.pattern.KitCategory
+com/minecraft/hungergames/user/object/ScrimSettings.java
+ com.minecraft.hungergames.user.object.ScrimSettings
+com/minecraft/hungergames/user/kits/list/Spider.java
+ com.minecraft.hungergames.user.kits.list.Spider
+com/minecraft/hungergames/user/kits/list/Launcher.java
+ com.minecraft.hungergames.user.kits.list.Launcher
+com/minecraft/hungergames/user/kits/KitStorage.java
+ com.minecraft.hungergames.user.kits.KitStorage
+com/minecraft/hungergames/game/structure/Minifeast.java
+ com.minecraft.hungergames.game.structure.Minifeast
+ com.minecraft.hungergames.game.structure.Minifeast$MinifeastGenerator
+com/minecraft/hungergames/user/kits/list/Nenhum.java
+ com.minecraft.hungergames.user.kits.list.Nenhum
+com/minecraft/hungergames/game/handler/listener/InvincibilityListener.java
+ com.minecraft.hungergames.game.handler.listener.InvincibilityListener
+com/minecraft/hungergames/command/SpawnCommand.java
+ com.minecraft.hungergames.command.SpawnCommand
+com/minecraft/hungergames/user/kits/list/Anchor.java
+ com.minecraft.hungergames.user.kits.list.Anchor
+com/minecraft/hungergames/user/kits/list/Flash.java
+ com.minecraft.hungergames.user.kits.list.Flash
+com/minecraft/hungergames/user/kits/list/Camel.java
+ com.minecraft.hungergames.user.kits.list.Camel
+com/minecraft/hungergames/game/handler/listener/DamageListener.java
+ com.minecraft.hungergames.game.handler.listener.DamageListener
+com/minecraft/hungergames/user/kits/list/Monk.java
+ com.minecraft.hungergames.user.kits.list.Monk
+com/minecraft/hungergames/user/kits/list/Grandpa.java
+ com.minecraft.hungergames.user.kits.list.Grandpa
+com/minecraft/hungergames/util/selector/object/Store.java
+ com.minecraft.hungergames.util.selector.object.Store
+ com.minecraft.hungergames.util.selector.object.Store$1
+com/minecraft/hungergames/user/kits/list/Magic.java
+ com.minecraft.hungergames.user.kits.list.Magic
+ com.minecraft.hungergames.user.kits.list.Magic$MagicEntityPotion
+ com.minecraft.hungergames.user.kits.list.Magic$MagicPotionEffect
+com/minecraft/hungergames/user/kits/pattern/CooldownType.java
+ com.minecraft.hungergames.user.kits.pattern.CooldownType
+com/minecraft/hungergames/user/kits/list/Expel.java
+ com.minecraft.hungergames.user.kits.list.Expel
+com/minecraft/hungergames/command/ClearmobsCommand.java
+ com.minecraft.hungergames.command.ClearmobsCommand
+com/minecraft/hungergames/util/bo3/BO3Block.java
+ com.minecraft.hungergames.util.bo3.BO3Block
+com/minecraft/hungergames/game/team/TeamStorage.java
+ com.minecraft.hungergames.game.team.TeamStorage
+com/minecraft/hungergames/util/constructor/listener/RecurringListener.java
+ com.minecraft.hungergames.util.constructor.listener.RecurringListener
+com/minecraft/hungergames/user/kits/list/Neo.java
+ com.minecraft.hungergames.user.kits.list.Neo
+com/minecraft/hungergames/command/IrCommand.java
+ com.minecraft.hungergames.command.IrCommand
+com/minecraft/hungergames/user/kits/list/Worm.java
+ com.minecraft.hungergames.user.kits.list.Worm
+com/minecraft/hungergames/util/metadata/GameMetadata.java
+ com.minecraft.hungergames.util.metadata.GameMetadata
+com/minecraft/hungergames/command/TimeCommand.java
+ com.minecraft.hungergames.command.TimeCommand
+com/minecraft/hungergames/user/listener/UserLoader.java
+ com.minecraft.hungergames.user.listener.UserLoader
+com/minecraft/hungergames/command/ArenaCommand.java
+ com.minecraft.hungergames.command.ArenaCommand
+com/minecraft/hungergames/command/TrollCommand.java
+ com.minecraft.hungergames.command.TrollCommand
+ com.minecraft.hungergames.command.TrollCommand$Troll
+ com.minecraft.hungergames.command.TrollCommand$Troll$1
+ com.minecraft.hungergames.command.TrollCommand$Troll$2
+ com.minecraft.hungergames.command.TrollCommand$Troll$3
+ com.minecraft.hungergames.command.TrollCommand$Troll$4
+ com.minecraft.hungergames.command.TrollCommand$Troll$5
+com/minecraft/hungergames/user/kits/list/Cultivator.java
+ com.minecraft.hungergames.user.kits.list.Cultivator
+ com.minecraft.hungergames.user.kits.list.Cultivator$1
+com/minecraft/hungergames/user/kits/list/Milkman.java
+ com.minecraft.hungergames.user.kits.list.Milkman
+com/minecraft/hungergames/game/structure/BonusFeast.java
+ com.minecraft.hungergames.game.structure.BonusFeast
+com/minecraft/hungergames/user/kits/list/Viper.java
+ com.minecraft.hungergames.user.kits.list.Viper
+com/minecraft/hungergames/util/game/Loadable.java
+ com.minecraft.hungergames.util.game.Loadable
+com/minecraft/hungergames/util/templatekit/scrim/KitType.java
+ com.minecraft.hungergames.util.templatekit.scrim.KitType
+ com.minecraft.hungergames.util.templatekit.scrim.KitType$1
+ com.minecraft.hungergames.util.templatekit.scrim.KitType$2
+com/minecraft/hungergames/util/game/GameStage.java
+ com.minecraft.hungergames.util.game.GameStage
+com/minecraft/hungergames/game/list/Default.java
+ com.minecraft.hungergames.game.list.Default
+com/minecraft/hungergames/user/kits/list/Forger.java
+ com.minecraft.hungergames.user.kits.list.Forger
+com/minecraft/hungergames/user/pattern/DieCause.java
+ com.minecraft.hungergames.user.pattern.DieCause
+com/minecraft/hungergames/util/timer/GameScheduler.java
+ com.minecraft.hungergames.util.timer.GameScheduler
+com/minecraft/hungergames/user/kits/list/Hulk.java
+ com.minecraft.hungergames.user.kits.list.Hulk
+com/minecraft/hungergames/user/pattern/ItemType.java
+ com.minecraft.hungergames.user.pattern.ItemType
+com/minecraft/hungergames/user/kits/list/AutoBowl.java
+ com.minecraft.hungergames.user.kits.list.AutoBowl
+com/minecraft/hungergames/util/selector/Type.java
+ com.minecraft.hungergames.util.selector.Type
+com/minecraft/hungergames/command/LmCommand.java
+ com.minecraft.hungergames.command.LmCommand
+com/minecraft/hungergames/command/ForcewinCommand.java
+ com.minecraft.hungergames.command.ForcewinCommand
+com/minecraft/hungergames/util/firework/FireworkAPI.java
+ com.minecraft.hungergames.util.firework.FireworkAPI
+com/minecraft/hungergames/command/ComemorationCommand.java
+ com.minecraft.hungergames.command.ComemorationCommand
+com/minecraft/hungergames/user/celebrations/list/EnderDragon.java
+ com.minecraft.hungergames.user.celebrations.list.EnderDragon
+ com.minecraft.hungergames.user.celebrations.list.EnderDragon$1
+com/minecraft/hungergames/user/storage/UserStorage.java
+ com.minecraft.hungergames.user.storage.UserStorage
+com/minecraft/hungergames/user/kits/list/Grappler.java
+ com.minecraft.hungergames.user.kits.list.Grappler
+ com.minecraft.hungergames.user.kits.list.Grappler$Hook
+com/minecraft/hungergames/util/game/GameType.java
+ com.minecraft.hungergames.util.game.GameType
+com/minecraft/hungergames/game/team/Team.java
+ com.minecraft.hungergames.game.team.Team
+com/minecraft/hungergames/user/kits/list/Lumberjack.java
+ com.minecraft.hungergames.user.kits.list.Lumberjack
+com/minecraft/hungergames/game/handler/listener/PlayingListener.java
+ com.minecraft.hungergames.game.handler.listener.PlayingListener
+com/minecraft/hungergames/command/LockCommand.java
+ com.minecraft.hungergames.command.LockCommand
+com/minecraft/hungergames/command/TemplatekitCommand.java
+ com.minecraft.hungergames.command.TemplatekitCommand
+ com.minecraft.hungergames.command.TemplatekitCommand$Argument
+ com.minecraft.hungergames.command.TemplatekitCommand$Argument$Executor
+com/minecraft/hungergames/user/kits/list/Kaya.java
+ com.minecraft.hungergames.user.kits.list.Kaya
+com/minecraft/hungergames/game/handler/listener/VictoryListener.java
+ com.minecraft.hungergames.game.handler.listener.VictoryListener
+com/minecraft/hungergames/user/kits/list/Assassin.java
+ com.minecraft.hungergames.user.kits.list.Assassin
+com/minecraft/hungergames/user/kits/list/Rider.java
+ com.minecraft.hungergames.user.kits.list.Rider
+com/minecraft/hungergames/command/KillCommand.java
+ com.minecraft.hungergames.command.KillCommand
+com/minecraft/hungergames/game/object/RecoveryMode.java
+ com.minecraft.hungergames.game.object.RecoveryMode
+com/minecraft/hungergames/user/kits/list/Boxer.java
+ com.minecraft.hungergames.user.kits.list.Boxer
+com/minecraft/hungergames/command/ScrimCommand.java
+ com.minecraft.hungergames.command.ScrimCommand
+com/minecraft/hungergames/user/kits/list/Digger.java
+ com.minecraft.hungergames.user.kits.list.Digger
+com/minecraft/hungergames/game/list/events/Tournament.java
+ com.minecraft.hungergames.game.list.events.Tournament
+com/minecraft/hungergames/user/kits/list/Stomper.java
+ com.minecraft.hungergames.user.kits.list.Stomper
+com/minecraft/hungergames/util/selector/object/Chooser.java
+ com.minecraft.hungergames.util.selector.object.Chooser
+ com.minecraft.hungergames.util.selector.object.Chooser$1
+ com.minecraft.hungergames.util.selector.object.Chooser$2
+ com.minecraft.hungergames.util.selector.object.Chooser$Sort
+ com.minecraft.hungergames.util.selector.object.Chooser$Sort$Shorter
+com/minecraft/hungergames/user/listener/UserDeath.java
+ com.minecraft.hungergames.user.listener.UserDeath
+com/minecraft/hungergames/user/kits/list/Blink.java
+ com.minecraft.hungergames.user.kits.list.Blink
+com/minecraft/hungergames/user/kits/list/Snail.java
+ com.minecraft.hungergames.user.kits.list.Snail
+com/minecraft/hungergames/user/kits/list/Jackhammer.java
+ com.minecraft.hungergames.user.kits.list.Jackhammer
+ com.minecraft.hungergames.user.kits.list.Jackhammer$1
+com/minecraft/hungergames/user/kits/list/Viking.java
+ com.minecraft.hungergames.user.kits.list.Viking
+com/minecraft/hungergames/user/celebrations/list/Parachute.java
+ com.minecraft.hungergames.user.celebrations.list.Parachute
+ com.minecraft.hungergames.user.celebrations.list.Parachute$1
+com/minecraft/hungergames/util/constructor/Assistance.java
+ com.minecraft.hungergames.util.constructor.Assistance
+ com.minecraft.hungergames.util.constructor.Assistance$1
+com/minecraft/hungergames/user/object/CombatTag.java
+ com.minecraft.hungergames.user.object.CombatTag
+com/minecraft/hungergames/user/kits/list/Crafter.java
+ com.minecraft.hungergames.user.kits.list.Crafter
+ com.minecraft.hungergames.user.kits.list.Crafter$EntityFurnace

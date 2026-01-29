@@ -1,0 +1,5 @@
+name: Arcade
+version: 1.0.0-
+main: com.minecraft.thebridge.TheBridge
+description: Arcade Bukkit Plugin [core, core-bukkit, core-*, game-engine, game-*]
+author: Thormento

@@ -1,0 +1,5 @@
+name: Build
+version: 1.0.0-
+main: com.minecraft.staff.build.Build
+description: Void World Generator
+author: Thormento

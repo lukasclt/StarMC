@@ -1,0 +1,50 @@
+com/minecraft/generator/util/schematic/data/StringTag.java
+ com.minecraft.generator.util.schematic.data.StringTag
+com/minecraft/generator/util/schematic/data/ByteTag.java
+ com.minecraft.generator.util.schematic.data.ByteTag
+com/minecraft/generator/util/schematic/data/NBTInputStream.java
+ com.minecraft.generator.util.schematic.data.NBTInputStream
+com/minecraft/generator/util/schematic/data/NamedTag.java
+ com.minecraft.generator.util.schematic.data.NamedTag
+com/minecraft/generator/util/schematic/data/CompoundTagBuilder.java
+ com.minecraft.generator.util.schematic.data.CompoundTagBuilder
+com/minecraft/generator/util/schematic/data/FloatTag.java
+ com.minecraft.generator.util.schematic.data.FloatTag
+com/minecraft/generator/util/schematic/data/NBTOutputStream.java
+ com.minecraft.generator.util.schematic.data.NBTOutputStream
+com/minecraft/generator/util/schematic/data/Tag.java
+ com.minecraft.generator.util.schematic.data.Tag
+com/minecraft/generator/util/schematic/data/IntTag.java
+ com.minecraft.generator.util.schematic.data.IntTag
+com/minecraft/generator/util/schematic/data/EndTag.java
+ com.minecraft.generator.util.schematic.data.EndTag
+com/minecraft/generator/util/schematic/data/CompoundTag.java
+ com.minecraft.generator.util.schematic.data.CompoundTag
+com/minecraft/generator/util/schematic/data/LongTag.java
+ com.minecraft.generator.util.schematic.data.LongTag
+com/minecraft/generator/listener/GeneratorListener.java
+ com.minecraft.generator.listener.GeneratorListener
+com/minecraft/generator/util/schematic/data/ByteArrayTag.java
+ com.minecraft.generator.util.schematic.data.ByteArrayTag
+com/minecraft/generator/util/schematic/data/NBTUtils.java
+ com.minecraft.generator.util.schematic.data.NBTUtils
+com/minecraft/generator/util/schematic/Schematic.java
+ com.minecraft.generator.util.schematic.Schematic
+com/minecraft/generator/util/schematic/data/ShortTag.java
+ com.minecraft.generator.util.schematic.data.ShortTag
+com/minecraft/generator/util/WorldEdit.java
+ com.minecraft.generator.util.WorldEdit
+com/minecraft/generator/Generator.java
+ com.minecraft.generator.Generator
+com/minecraft/generator/util/schematic/data/ListTag.java
+ com.minecraft.generator.util.schematic.data.ListTag
+com/minecraft/generator/util/schematic/data/IntArrayTag.java
+ com.minecraft.generator.util.schematic.data.IntArrayTag
+com/minecraft/generator/util/file/FileUtil.java
+ com.minecraft.generator.util.file.FileUtil
+com/minecraft/generator/util/schematic/data/DoubleTag.java
+ com.minecraft.generator.util.schematic.data.DoubleTag
+com/minecraft/generator/util/schematic/data/NBTConstants.java
+ com.minecraft.generator.util.schematic.data.NBTConstants
+com/minecraft/generator/util/schematic/data/ListTagBuilder.java
+ com.minecraft.generator.util.schematic.data.ListTagBuilder

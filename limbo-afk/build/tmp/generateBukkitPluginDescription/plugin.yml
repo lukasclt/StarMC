@@ -1,0 +1,5 @@
+name: Limbo
+version: 1.0.0-
+main: com.minecraft.limbo.Limbo
+description: Limbo Bukkit Plugin [core, core-bukkit, core-*]
+author: Thormento

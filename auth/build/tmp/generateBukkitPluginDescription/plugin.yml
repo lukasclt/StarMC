@@ -1,0 +1,5 @@
+name: Auth
+version: 1.0.0-
+main: com.minecraft.auth.Auth
+description: Auth Bukkit Plugin [core, core-bukkit, core-*]
+author: Thormento

@@ -1,0 +1,14 @@
+com/minecraft/skywars/user/UserLoader.java
+ com.minecraft.skywars.user.UserLoader
+com/minecraft/skywars/game/types/Solo.java
+ com.minecraft.skywars.game.types.Solo
+com/minecraft/skywars/game/Game.java
+ com.minecraft.skywars.game.Game
+com/minecraft/skywars/user/UserStorage.java
+ com.minecraft.skywars.user.UserStorage
+com/minecraft/skywars/game/types/Doubles.java
+ com.minecraft.skywars.game.types.Doubles
+com/minecraft/skywars/Skywars.java
+ com.minecraft.skywars.Skywars
+com/minecraft/skywars/user/User.java
+ com.minecraft.skywars.user.User

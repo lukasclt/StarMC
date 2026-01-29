@@ -1,0 +1,5 @@
+name: lobbyhost
+version: 1.0.0-
+main: com.minecraft.lobby.Lobby
+description: Lobby Bukkit Plugin [core, core-bukkit, core-*]
+author: Thormento

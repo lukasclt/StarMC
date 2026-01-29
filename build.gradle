@@ -1,0 +1,31 @@
+plugins {
+    id 'net.ltgt.apt-eclipse' version('0.21')
+    id 'net.ltgt.apt-idea' version('0.21')
+}
+
+allprojects {
+
+    subprojects {
+        version('1.0.0-SNAPSHOT')
+    }
+
+    repositories {
+        mavenCentral()
+        maven { url "file://${rootDir}/Libraries/Maven" }
+    }
+
+}
+
+// Sincronizar pasta Libraries
+task syncLibraries {
+    doLast {
+        def libsDir = new File("${rootDir}/Libraries")
+        if (libsDir.exists()) {
+            println "✓ Pasta Libraries sincronizada: ${libsDir.absolutePath}"
+        } else {
+            println "✗ Pasta Libraries não encontrada em: ${libsDir.absolutePath}"
+        }
+    }
+}
+
+build.dependsOn syncLibraries
