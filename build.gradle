@@ -19,8 +19,15 @@ repositories {
     }
 }
 
+def librariesDir = "C:\\Libraries\\"
+
 dependencies {
     compileOnly 'io.papermc.paper:paper-api:1.20.4-R0.1-SNAPSHOT'
+
+    // Dependências locais centralizadas
+    compileOnly files(librariesDir + "bukkit-server.jar")
+    compileOnly files(librariesDir + "proxy-server.jar")
+    compileOnly files(librariesDir + "ViaVersion.jar")
 }
 
 tasks.withType(JavaCompile) {
