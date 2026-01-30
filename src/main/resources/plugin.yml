@@ -1,0 +1,4 @@
+name: StarMC
+version: 1.0-SNAPSHOT
+main: com.exemplo.meuplugin.StarMC
+api-version: 1.20
