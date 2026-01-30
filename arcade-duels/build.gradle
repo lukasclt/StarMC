@@ -1,8 +1,15 @@
 plugins {
     id 'java'
+    id 'java-library'
 }
 
 dependencies {
     implementation project(':core-bukkit')
     // Outras dependências aqui
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
 }
