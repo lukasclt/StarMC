@@ -8,13 +8,16 @@ group 'com.minecraft.arcade.pvp'
 version '1.0.0-SNAPSHOT'
 
 java {
-    toolchain.languageVersion.set(JavaLanguageVersion.of(17))
+    toolchain.languageVersion.set(JavaLanguageVersion.of(11))
 }
 
 repositories {
     mavenCentral()
     maven { url "https://hub.spigotmc.org/nexus/content/groups/public/" }
-    maven { url "file://${rootDir}/Libraries/Maven" }
+    def libsDir = file("${rootDir}/Libraries")
+    if (libsDir.exists()) {
+        maven { url "file://${libsDir.absolutePath}" }
+    }
 }
 
 dependencies {
