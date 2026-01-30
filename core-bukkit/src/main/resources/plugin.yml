@@ -1,0 +1,12 @@
+name: CoreBukkit
+main: com.minecraft.core.bukkit.Main
+version: 1.0.0
+commands:
+  acc:
+    description: Set your rank and medals.
+    usage: /acc <rank> <medals>
+    permission: core.acc
+permissions:
+  core.acc:
+    description: Allows the use of the /acc command.
+    default: true
