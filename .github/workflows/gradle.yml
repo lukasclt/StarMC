@@ -21,6 +21,7 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+      working-directory: ${{ github.workspace }}
     - name: Release Artifacts
       uses: softprops/action-gh-release@v1
       if: success()
